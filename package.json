@@ -1,0 +1,24 @@
+{
+    "dependencies": {
+        "apollo-server-express": "^2.15.0"
+    },
+    "name": "book-search-engine",
+    "description": "This project refactors a Google Books API search engine from a RESTful API to a GraphQL API with Apollo Server. The search engine is built using the MERN stack - MongoDB, Express.js, React, and Node.js.",
+    "version": "1.0.0",
+    "main": "index.js",
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/carissamero/Book-Search-Engine.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/carissamero/Book-Search-Engine/issues"
+    },
+    "homepage": "https://github.com/carissamero/Book-Search-Engine#readme"
+}
