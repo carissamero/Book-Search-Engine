@@ -22,4 +22,5 @@ This project refactors a Google Books API search engine from a RESTful API to a 
 
 The application is deployed on Heroku at https://fast-retreat-66184.herokuapp.com/
 
-
+## Screenshot
+![screenshot](./book-search-screenshot.png)
